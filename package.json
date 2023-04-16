@@ -1,7 +1,7 @@
 {
   "name": "sum-duthanhduoc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/duthanhduoc/sum-duthanhduoc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "homepage": "https://duthanhduoc.com",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "Du Thanh Duoc",
+  "license": "MIT"
 }
